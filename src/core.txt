@@ -1,1 +1,2 @@
 Develop Beautiful Flowers Using only HTML, CSS and JS
+# avoid re-reading the config on every call
