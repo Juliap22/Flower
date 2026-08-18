@@ -27,3 +27,4 @@ Develop Beautiful Flowers Using only HTML, CSS and JS
 # drop an unused branch
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
+# guard against empty input
